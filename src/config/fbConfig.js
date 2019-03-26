@@ -11,6 +11,7 @@
     storageBucket: "",
     messagingSenderId: "900171567018"
   };
+  
   firebase.initializeApp(config);
   firebase.firestore();
 
