@@ -22,3 +22,9 @@ export const signOut = () => {
         });
     }
 }
+
+export const signUp = (newUser) => {
+    return {
+        
+    }
+}
